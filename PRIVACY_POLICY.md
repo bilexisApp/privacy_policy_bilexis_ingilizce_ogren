@@ -3,7 +3,7 @@
 Effective Date: 2026-02-08
 Last Updated: 2026-02-08
 
-This Privacy Policy explains the approach of **Bilexis: Learn English** application ("Application") regarding user privacy.
+This Privacy Policy explains the approach of **Bilexis: İngilizce Öğren** application ("Application") regarding user privacy.
 
 ## Quick Summary
 - The Application currently **uses local mock data** and **does not send data to any server**.
